@@ -1,0 +1,46 @@
+---
+title: "second_repo"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Assignment2
+A (max) 2,000 word proposal created with R Markdown.
+The proposal will:
+*Be written in R Markdown.
+*State your research question. And justify why it is interesting.
+*Provide a basic literature review (properly cited with BibTeX).
+*Identify data sources and appropriate research methodologies for answering your question.
+
+##Reserch Question
+Our purpose for this resrch is analyzing a correlation between internet diffusion rate and student's academic ability and economic growth. There is a disscussion that internet accessibility might harm student's academic ability because it deprive their ability to think. On the other hands, internet accessability wold be critical for the economic growth because nowadays IT technology is one of the most efficient method to produce profit.
+
+##Hypothesis
+Our hypothesis is internet accessibility is benefitial for both student's academic record and economic growth.
+
+##Data Sources and Methodologie
+We will refer "World DataBank"" and Central Intelligence agency(CIA)'s "Factbook" and  use datas as follows:
+*Internet Users (CIA)
+https://www.cia.gov/library/publications/resources/the-world-factbook/fields/2153.html#xx
+*●●●●
+*●●●●
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
