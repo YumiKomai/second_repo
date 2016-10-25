@@ -1,4 +1,4 @@
-#Assignment2
+#Assignment 2
 A (max) 2,000 word proposal created with R Markdown.
 The proposal will:
 *Be written in R Markdown.
