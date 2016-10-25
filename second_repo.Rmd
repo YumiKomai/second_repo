@@ -15,8 +15,8 @@ The proposal will:
 *Provide a basic literature review (properly cited with BibTeX).
 *Identify data sources and appropriate research methodologies for answering your question.
 
-##Reserch Question
-Our purpose for this resrch is analyzing a correlation between internet diffusion rate and student's academic ability and economic growth. There is a disscussion that internet accessibility might harm student's academic ability because it deprive their ability to think. On the other hands, internet accessability wold be critical for the economic growth because nowadays IT technology is one of the most efficient method to produce profit.
+##Research Question
+Our researching question is wheather the Internet accesibility rate has a direct impact on the students academic ability and economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth because future generations will not be prepared to apply new technologies, therefore losing the chance of applying one of the most efficient methods to produce benefits.
 
 ##Hypothesis
 Our hypothesis is internet accessibility is benefitial for both student's academic record and economic growth.
