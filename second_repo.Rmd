@@ -1,12 +1,3 @@
----
-title: "second_repo"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 #Assignment2
 A (max) 2,000 word proposal created with R Markdown.
 The proposal will:
