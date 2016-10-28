@@ -7,7 +7,7 @@ bibliography: Biblio.bib
 ---
 
 ## Assignment 2
-```{r, echo=FALSE}
+```{r,echo=FALSE}
 library(bibtex)
 ```
 A (max) 2,000 word proposal created with R Markdown.
