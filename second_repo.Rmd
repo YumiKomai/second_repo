@@ -42,20 +42,16 @@ Therefore, we would like to compare the impact of internet access on eduactio an
 ##Data Sources and Methodologie
 ###Data Sources
 We will refer "World DataBank" and Central Intelligence agency(CIA)'s "Factbook" and  use datas. Likewise, we also will use the "QOG dataset 2016." A recopilation of data made by the University of Gothenburg. We will use data on education and internet infrastructure.
+
 **Internet Users (CIA):** https://www.cia.gov/library/publications/resources/the-world-factbook/fields/2153.html#xx
-**QOG Data:** http://qog.pol.gu.se/data/datadownloads/qogstandarddata
-World DataBank (WDI): http://databank.worldbank.org/data/home.aspx
+
+**QOGData:** http://qog.pol.gu.se/data/datadownloads/qogstandarddata
+
+**World DataBank (WDI):** http://databank.worldbank.org/data/home.aspx
 
 ###Methodologie
-Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question. 
-Our research will be quantitative. Quantitative methods emphasize objective measurements and the statistical, mathematical, or numerical analysis of data collected through polls, questionnaires, and surveys, or by manipulating pre-existing statistical data using computational techniques. This quantitative research will focus on gathering numerical data and generalizing it across groups of people or to explain how influential is the Internet accessibility when improving education and growth.
-=======
 Our methodologie will be based on data on **Internet Accesibiity**, **Qualith of Education System**, **Average Schooling Years**, and **GDP Growth Rate** of all the countries. Then we will analyze the correlation between them in order to answer our researching question. 
 Our research will be quantitative. Quantitative methods emphasize objective measurements and the statistical, mathematical, or numerical analysis of data collected through polls, questionnaires, and surveys, or by manipulating pre-existing statistical data using computational techniques. This quantitative research will focus on gathering numerical data and generalizing it across groups of people or to explain how influential is the internet accessibility when improving education and growth.
->>>>>>> Stashed changes
-=======
-Our methodologie will be based on data on **Internet Accesibiity**, **Quality of Education System**, **Average Schooling Years**, and **GDP Growth Rate** of all the countries. Then we will analyze the correlation between them in order to answer our researching question.
->>>>>>> Stashed changes
 
 Reference
 =======
