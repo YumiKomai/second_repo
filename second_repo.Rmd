@@ -23,7 +23,7 @@ http://qog.pol.gu.se/data/datadownloads/qogstandarddata
 http://databank.worldbank.org/data/home.aspx
 
 ###Methodologie
-We will use the data of ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of each country and analyze the correlation of each data.
+Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question.
 
 
 >>>>>>> Stashed changes
