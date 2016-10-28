@@ -1,4 +1,14 @@
+---
+title: "assignment2"
+output: html_document
+bibliography: Biblio.bib
+---
+
 #Assignment 2
+```{r}
+library(bibtex)
+```
+
 A (max) 2,000 word proposal created with R Markdown.
 The proposal will:
 * Be written in R Markdown.
@@ -7,7 +17,7 @@ The proposal will:
 * Identify data sources and appropriate research methodologies for answering your question.
 
 ##Research Question
-Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits.
+Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits. (see @sundstrom2016corruption) (see @central2013world)
 
 ##Hypothesis
 Our hypothesis is that ***Internet accessibility is beneficial for both student's academic record and economic growth***.
@@ -24,6 +34,8 @@ http://databank.worldbank.org/data/home.aspx
 
 ###Methodologie
 Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question.
+
+
 
 
 >>>>>>> Stashed changes
@@ -45,3 +57,5 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Reference
