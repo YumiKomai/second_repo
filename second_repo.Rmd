@@ -5,8 +5,8 @@ output:
 bibliography: Biblio.bib
 ---
 
-
-```{r,echo=FALSE}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 library(bibtex)
 ```
 ##Research Question 
