@@ -1,23 +1,23 @@
 #Assignment 2
-A (max) 2,000 word proposal created with R Markdown.
+  A (max) 2,000 word proposal created with R Markdown.
 The proposal will:
-*Be written in R Markdown.
-*State your research question. And justify why it is interesting.
-*Provide a basic literature review (properly cited with BibTeX).
-*Identify data sources and appropriate research methodologies for answering your question.
+* Be written in R Markdown.
+* State your research question. And justify why it is interesting.
+* Provide a basic literature review (properly cited with BibTeX).
+* Identify data sources and appropriate research methodologies for answering your question.
 
 ##Research Question
-Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits.
+  Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits.
 
 ##Hypothesis
-Our hypothesis is that Internet accessibility is beneficial for both student's academic record and economic growth.
+  Our hypothesis is that Internet accessibility is beneficial for both student's academic record and economic growth.
 
 ##Data Sources and Methodologie
-We will refer "World DataBank"" and Central Intelligence agency(CIA)'s "Factbook" and  use datas as follows:
-*Internet Users (CIA)
+  We will refer "World DataBank"" and Central Intelligence agency(CIA)'s "Factbook" and  use datas as follows:
+* Internet Users (CIA)
 https://www.cia.gov/library/publications/resources/the-world-factbook/fields/2153.html#xx
-*●●●●
-*●●●●
+* ●●●●
+* ●●●●
 
 
 
