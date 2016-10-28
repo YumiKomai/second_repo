@@ -30,6 +30,7 @@ Moreover, there is an argument that despite all the benefits of new technologies
 Our hypothesis is that **Internet accessibility is beneficial for both student's academic record and economic growth**.
 
 ##Basic Literature Review
+<<<<<<< Updated upstream
 **Internet Seen as Positive Influence on Education but Negative on Morality in Emerging and Developing Nations** (Reference3 @PewReserchCenter)
 
 This report is analyzing "technology use in 32 emerging and developing nations, including internet access rates, and cell phone and smartphone ownership. It also examines internet and mobile activities, as well as public opinion regarding the internet’s impact on society."(@PewReserchCenterp1)
@@ -39,6 +40,17 @@ According to the report, the result is different between developing and develope
 **Expanding Internet access to the rural poor in Africa**
 
 At present, the Internet is little used in Africa. However, it has the potential to play a significant role in reducing poverty and promoting sustainable development, especially in rural areas. This paper examines two important elements of increasing rural Internet access: reducing costs of Internet service provision and increasing the number of rural access points. The paper argues that liberalization of the telecommunications sector combined with targeted, auctioned subsidies to local entrepreneurs are both likely to have a significant impact on rural Internet access rates. (see @kenny2000expanding)
+=======
+* **Internet Seen as Positive Influence on
+Education but Negative on Morality in
+Emerging and Developing Nations** (Reference3 @poushter2015internet)
+
+This report is analyzing "technology use in 32 emerging and developing nations, including internet access rates, and cell phone and smartphone ownership. It also examines internet and mobile activities, as well as public opinion regarding the internet’s impact on society."(@poushter2015internet)
+This report cast doubt on the idea that Internet will bring a good effect on the nation's long-term growth because it could be harmful on morality of people. 
+Also, this report implied that the result would be differebt between emarging/developing countries and developed countries. Internet access brought a positive influence of education of clear majority of people in emerging and developing countries. On the other hands, only 36% people say it is a lositive for thieir country's politicial system, while three-in-ten say it is a bad influence in emerging and developing countries. In addition, people are even more leery of the inernet's efect on morality, ane 42% day it is a bad influence. However, this report concludes that across the emerging and develoving nations surveyed, internet access is closely linked to national income.
+
+Therefore, we would like to compare the impact of internet access on eduactio and economy by devideng countries to two groups (emerging/depeloping countries and developed countries.)
+>>>>>>> Stashed changes
 
 ##Data Sources and Methodologie
 ###Data Sources
@@ -49,8 +61,13 @@ World DataBank (WDI): http://databank.worldbank.org/data/home.aspx
 
 ###Methodologie
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question. 
 Our research will be quantitative. Quantitative methods emphasize objective measurements and the statistical, mathematical, or numerical analysis of data collected through polls, questionnaires, and surveys, or by manipulating pre-existing statistical data using computational techniques. This quantitative research will focus on gathering numerical data and generalizing it across groups of people or to explain how influential is the Internet accessibility when improving education and growth.
+=======
+Our methodologie will be based on data on **Internet Accesibiity**, **Qualith of Education System**, **Average Schooling Years**, and **GDP Growth Rate** of all the countries. Then we will analyze the correlation between them in order to answer our researching question. 
+Our research will be quantitative. Quantitative methods emphasize objective measurements and the statistical, mathematical, or numerical analysis of data collected through polls, questionnaires, and surveys, or by manipulating pre-existing statistical data using computational techniques. This quantitative research will focus on gathering numerical data and generalizing it across groups of people or to explain how influential is the internet accessibility when improving education and growth.
+>>>>>>> Stashed changes
 =======
 Our methodologie will be based on data on **Internet Accesibiity**, **Quality of Education System**, **Average Schooling Years**, and **GDP Growth Rate** of all the countries. Then we will analyze the correlation between them in order to answer our researching question.
 >>>>>>> Stashed changes
