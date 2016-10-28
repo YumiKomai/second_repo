@@ -38,7 +38,7 @@ According to the report, the result is different between developing and develope
 
 **Expanding Internet access to the rural poor in Africa**
 
-At present, the Internet is little used in Africa. However, it has the potential to play a significant role in reducing poverty and promoting sustainable development, especially in rural areas. This paper examines two important elements of increasing rural Internet access: reducing costs of Internet service provision and increasing the number of rural access points. The paper argues that liberalization of the telecommunications sector combined with targeted, auctioned subsidies to local entrepreneurs are both likely to have a significant impact on rural Internet access rates. (see @kenny2000expanding)
+This report is about the Internet accessibility in Africa. Internet has the potential to play a significant role in reducing poverty and promoting sustainable development, especially in rural areas. The paper argues that liberalization of the telecommunications sector combined with targeted, auctioned subsidies to local entrepreneurs are both likely to have a significant impact on rural Internet access rates and poverty. (see @kenny2000expanding)
 
 ##Data Sources and Methodologie
 ###Data Sources
