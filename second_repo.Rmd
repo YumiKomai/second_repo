@@ -30,7 +30,8 @@ QOG Data: http://qog.pol.gu.se/data/datadownloads/qogstandarddata
 World DataBank (WDI): http://databank.worldbank.org/data/home.aspx
 
 ###Methodologie
-Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question.
+Our methodologie will be based on data on ***Internet Accesibiity***, ***Qualith of Education System***, ***Average Schooling Years***, and ***GDP Growth Rate*** of all the countries. Then we will analyze the correlation between them in order to answer our researching question. 
+Our research will be quantitative. Quantitative methods emphasize objective measurements and the statistical, mathematical, or numerical analysis of data collected through polls, questionnaires, and surveys, or by manipulating pre-existing statistical data using computational techniques. This quantitative research will focus on gathering numerical data and generalizing it across groups of people or to explain how influential is the internet accessibility when improving education and growth.
 
 
 # Reference
