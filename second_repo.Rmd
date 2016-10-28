@@ -17,7 +17,7 @@ The proposal will:
 * Identify data sources and appropriate research methodologies for answering your question.
 
 ##Research Question
-Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits. (see @savage2005broadband) (see @dimaggio2001social)
+Our researching question is based on whether the Internet accesibility rate has a direct impact on the students academic ability and the economic growth. Currently, it can be argued that not having a proper Internet accessibility can decrease the potencial of the students when learning. Moreover, this can also be harmful for the GDP growth, because future generations will not be prepared to apply new technologies and, therefore, losing the chance to apply one of the most efficient methods to produce benefits. (see @savage2005broadband) (see @dimaggio2001social) (see @beldarrain2006distance)
 
 ##Hypothesis
 Our hypothesis is that ***Internet accessibility is beneficial for both student's academic record and economic growth***.
